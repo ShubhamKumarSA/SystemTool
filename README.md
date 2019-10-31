@@ -1,4 +1,4 @@
-# SystemUtilityPlus
+# SystemTool
 A Windows based tool for easily handling system features like turn-off, restart, hibernate, log-off the computer and some advance features like scheduled turn-off feature.
 
 ## Functions:
@@ -22,4 +22,4 @@ A Windows based tool for easily handling system features like turn-off, restart,
 
 
 * This features works on device where battery is installed(e.g. Laptop, Battery attached PC)
-^ OneClick feature is to protect your data by disabling one click while access options. You can enable this option to make all options single click executable.
+* ^ OneClick feature is to protect your data by disabling one click while access options. You can enable this option to make all options single click executable.
